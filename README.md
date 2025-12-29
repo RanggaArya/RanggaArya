@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hello%20World!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile.&descAlignY=55&descAlign=60" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi!%20I'M%20Rangga Arya Pradana&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile.&descAlignY=55&descAlign=60" alt="Header" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=FullStack+Developer;Software+Engineer;Machine+Learning+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=FullStack+Developer;Software+Engineer;Machine+Learning+Engineer;Computer+Vision+Enthusiast;;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </div>
 
