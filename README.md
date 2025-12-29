@@ -70,6 +70,5 @@
 
   <br><br>
   
-  <h3>Visitors</h3>
-  <img src="https://visitor-badge.laobi.io/badge?page_id=RanggaArya.RanggaArya" alt="visitors">
+  <img src="https://komarev.com/ghpvc/?username=RanggaArya&label=Profile%20Views&color=0e75b6&style=flat" alt="RanggaArya" />
 </div>
