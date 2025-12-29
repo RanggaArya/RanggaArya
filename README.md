@@ -52,8 +52,8 @@
   <h3>📊 GitHub Stats</h3>
   <br>
   <a href="https://github.com/RanggaArya">
-    <img src="https://github-readme-stats.vercel.app/api?username=RanggaArya&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="Stats" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaArya&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Languages" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RanggaArya&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="RanggaArya Stats" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaArya&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" height="160"/>
   </a>
 </div>
 
